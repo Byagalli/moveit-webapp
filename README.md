@@ -17,8 +17,8 @@ A modern web application for professional moving services across the US.
 
 ## 📸 Screenshots
 
-![Home Page](screenshots/home.png)
-![About Page](screenshots/about.png)
+
+![Home](public/screenshots/Home.png)
 
 ## 🛠️ Technologies Used
 
