@@ -27,8 +27,10 @@ A modern web application for professional moving services across the US.
 - React
 - JavaScript (ES6+)
 - HTML5 & CSS3
+- Bootstrap
 - React Router
 - Vite
+
 
 ## 📂 Folder Structure
 
