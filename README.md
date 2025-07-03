@@ -1,6 +1,6 @@
 # Move It - Full Stack Moving Services Web App
 
-A modern web application for professional moving services across the US.
+A modern web application for professional moving services across the India.
 
 ## 🚀 Features
 
