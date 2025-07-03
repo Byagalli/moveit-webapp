@@ -1,0 +1,14 @@
+/* src/components/navbar.css */
+
+/* 1. Ensure the navbar is fixed to the very top */
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1030; /* above other content */
+}
+
+/* 2. Push the page content down by the navbar’s height */
+.main-content {
+  padding-top: 4.5rem; /* adjust to match your navbar’s actual height */
+}

@@ -1,0 +1,37 @@
+.pricing-section {
+  background: #f8f9fc;
+}
+
+.pricing-card {
+  border: none;
+  border-radius: 16px;
+  background: #fff;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.pricing-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
+}
+
+.card-price {
+  font-size: 2rem;
+  color: #0d6efd;
+  margin-bottom: 1rem;
+}
+
+.popular-badge {
+  position: absolute;
+  top: -12px;
+  right: -12px;
+  background: linear-gradient(to right, #0d6efd, #0a58ca);
+  color: #fff;
+  font-size: 0.75rem;
+  padding: 5px 10px;
+  border-radius: 0 8px 0 8px;
+}
+
+.popular {
+  border: 2px solid #0d6efd;
+}
